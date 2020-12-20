@@ -1,1 +1,3 @@
-# rn-weather-app
+# RN Weather App
+
+Simple Weather App with React Native
